@@ -1,45 +1,32 @@
 CMakeFiles/mlx42.dir/mlx_vert_shader.c.o: \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/build/mlx_vert_shader.c \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/include/MLX42/MLX42_Int.h \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/include/MLX42/MLX42.h \
-  /usr/lib/llvm-12/lib/clang/12.0.0/include/stddef.h \
-  /usr/lib/llvm-12/lib/clang/12.0.0/include/__stddef_max_align_t.h \
-  /usr/lib/llvm-12/lib/clang/12.0.0/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/features.h /usr/include/stdc-predef.h \
-  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
-  /usr/include/x86_64-linux-gnu/bits/long-double.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/include/x86_64-linux-gnu/bits/types.h \
-  /usr/include/x86_64-linux-gnu/bits/timesize.h \
-  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
-  /usr/include/x86_64-linux-gnu/bits/time64.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/lib/llvm-12/lib/clang/12.0.0/include/stdbool.h \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/include/lodepng/lodepng.h \
-  /usr/include/string.h \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/include/glad/glad.h \
-  /nfs/homes/angomes-/Documents/so_long/libraries/MLX42/include/KHR/khrplatform.h \
-  /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h /usr/include/stdlib.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/memory.h /usr/include/stdio.h \
-  /usr/lib/llvm-12/lib/clang/12.0.0/include/stdarg.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h /usr/include/linux/limits.h \
-  /usr/include/ctype.h /usr/include/x86_64-linux-gnu/bits/endian.h \
-  /usr/include/x86_64-linux-gnu/bits/endianness.h /usr/include/assert.h
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/build/mlx_vert_shader.c \
+ /usr/include/stdc-predef.h \
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/include/MLX42/MLX42_Int.h \
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/include/MLX42/MLX42.h \
+ /usr/lib/gcc/x86_64-redhat-linux/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/13/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/time64.h /usr/include/bits/wchar.h \
+ /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
+ /usr/lib/gcc/x86_64-redhat-linux/13/include/stdbool.h \
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/include/lodepng/lodepng.h \
+ /usr/include/string.h \
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/include/glad/glad.h \
+ /var/home/angomes/Documentos/devel/42/renan_so_long/MLX42/include/KHR/khrplatform.h \
+ /usr/include/GLFW/glfw3.h /usr/include/stdlib.h \
+ /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
+ /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
+ /usr/include/memory.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-redhat-linux/13/include/stdarg.h \
+ /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
+ /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
+ /usr/include/linux/limits.h /usr/include/ctype.h \
+ /usr/include/bits/endian.h /usr/include/bits/endianness.h \
+ /usr/include/assert.h
