@@ -8,7 +8,7 @@
 
 ---
 
-# So_Long
+# So_Long Isometric
 
 ### Introduction
 
@@ -19,6 +19,8 @@ so_long is a simple 2D game where the player controls a character that must coll
 To run so_long, you will need to have the MLX42 library installed on your system. You can then compile the game using the Makefile provided in the game directory. Once compiled, run the game using the command `./so_long [map_path]` or use `make play`.
 
 ### Gameplay
+
+![iso_solong](https://github.com/AndreGomesSilva/so_long_isometric/assets/59901704/d20f58b6-d87b-4e17-baa8-dd3c7aa1d053)
 
 In so_long, the player controls a character that must navigate through a maze-like environment in order to collect all the required items and reach the exit. Along the way, the player must avoid enemies that move around the map and try to block the player's progress.
 
